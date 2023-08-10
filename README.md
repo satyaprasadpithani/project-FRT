@@ -4,7 +4,7 @@ This is a web based application developed for a restaurant named PARADISE.
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 **Project Link** -https://victorious-grass-0ab224a10.3.azurestaticapps.net
-**Project demo Video link** -  
+**Project demo Video link** - https://youtu.be/jutXDMthAvo?si=SA29ahh3hFbz6rmB 
 # Azure technologies used for Project
 
 - Static web apps
