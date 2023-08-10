@@ -1,9 +1,3 @@
-![about us 3](https://github.com/satyaprasadpithani/project-FRT/assets/113784988/1ee95d25-e10b-48b5-b38f-0b71a5fcc0be)
-![Uploading about us 2.png…]()
-![Uploading aboutus 1.png…]()
-![service2](https://github.com/satyaprasadpithani/project-FRT/assets/113784988/e6f7c1b7-f35c-4cb3-9ddc-bd9b498a6e4c)
-![Uploading service1.png…]()
-
 loadstring(game:HttpGet(('htt# ✨ Men's Salin  ✨
 
 This is a web based application developed for a restaurant named PARADISE.
@@ -26,8 +20,9 @@ This is a web based application developed for a restaurant named PARADISE.
 ## Screenshots 📸
 ### Home page -  ![Men's Salon Beauty Category Flat Bootstrap Responsive Web Template _ Home - Brave 10-08-2023 13_24_41](https://github.com/satyaprasadpithani/project-FRT/assets/113784988/f9d8b861-8ae1-4443-a5ad-2fb2e3207c2d)
 
-### Services page -![Uploading service4.png…]()
-![Uploading service3.png…]()
+### Services page -![service1](https://github.com/satyaprasadpithani/project-FRT/assets/113784988/22954817-2e0d-47c2-ad9c-283eddc65a20)
+![Uploading service4.png…]()
+
 
 
 ### About Us Page -![Uploading about us 5.png…]()
