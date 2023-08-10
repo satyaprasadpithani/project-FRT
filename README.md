@@ -1,4 +1,4 @@
-# ✨ Men's Salin  ✨
+# ✨ Men's Salon  ✨
 
 This is a web based application developed for a restaurant named PARADISE.
 
