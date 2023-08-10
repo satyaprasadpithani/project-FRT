@@ -20,8 +20,11 @@ This is a web based application developed for a restaurant named PARADISE.
 ### Services page -![service1](https://github.com/satyaprasadpithani/project-FRT/assets/113784988/22954817-2e0d-47c2-ad9c-283eddc65a20)
 ![Uploading service4.png…]()
 
-### About Us Page -![aboutus 1](https://github.com/satyaprasadpithani/project-FRT/assets/113784988/ff29181a-053e-4918-ba44-640631b6f54f)
-![Uploading about us 4.png…]()
+### About Us Page -![aboutus 1](https://github.com/satyaprasadpithani/project-FRT/assets/113784988/1d7c4610-9f6a-4365-9004-9540ce9d873a)
+![about us 2](https://github.com/satyaprasadpithani/project-FRT/assets/113784988/3a6d34ba-31df-4393-9f5a-0b36ec98befa)
+![about us 3](https://github.com/satyaprasadpithani/project-FRT/assets/113784988/a961bc8d-38ff-4b1c-b81f-7fc527d748fe)
+![about us 4](https://github.com/satyaprasadpithani/project-FRT/assets/113784988/2cc5dba6-cffd-4e0c-862d-926cddaa688a)
+
 
 ### Gallery Page -![gallery1](https://github.com/satyaprasadpithani/project-FRT/assets/113784988/e9824b41-92c7-4a9e-9627-b8f558dbc75a)
 ![Uploading gallery2.png…]()
