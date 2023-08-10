@@ -6,8 +6,10 @@ This is a web based application developed for a restaurant named PARADISE.
 **Project Link** -https://victorious-grass-0ab224a10.3.azurestaticapps.net
 **Project demo Video link** -  
 # Azure technologies used for Project
--Static web apps
--Health bot
+
+- Static web apps
+- Health bot
+
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
